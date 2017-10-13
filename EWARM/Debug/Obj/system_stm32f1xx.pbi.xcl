@@ -43,6 +43,7 @@ C:\Users\Victor\Documents\GitHub\Cortex\Drivers\CMSIS\Include
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1
 -DSTM32F103xB=1
+-DDEBUG=1
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
