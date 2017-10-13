@@ -2,7 +2,7 @@
 
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
 
-"C:\Users\Victor\Documents\GitHub\Cortex\EWARM\Debug\Exe\Cortex.out" 
+"C:\Users\Victor\Documents\GitHub\Cortex\EWARM\Release\Exe\Cortex.out" 
 
 --plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
 
