@@ -18,6 +18,8 @@ C:\Users\Victor\Documents\GitHub\Cortex\EWARM/../Middlewares/Third_Party/FreeRTO
 -I
 C:\Users\Victor\Documents\GitHub\Cortex\EWARM/../Drivers/CMSIS/Include
 -I
+C:\Users\Victor\Documents\GitHub\Cortex\EWARM/../Src/J1939/
+-I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\inc
@@ -39,6 +41,8 @@ C:\Users\Victor\Documents\GitHub\Cortex\Middlewares\Third_Party\FreeRTOS\Source\
 C:\Users\Victor\Documents\GitHub\Cortex\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS
 -I
 C:\Users\Victor\Documents\GitHub\Cortex\Drivers\CMSIS\Include
+-I
+C:\Users\Victor\Documents\GitHub\Cortex\Src\J1939
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1

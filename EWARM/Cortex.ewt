@@ -3479,7 +3479,19 @@
       </file>
     </group>
     <group>
+      <name>J1939Database</name>
+      <file>
+        <name>$PROJ_DIR$\..\Src\J1939\can_messages.h</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\Src\J1939\screener.h</name>
+      </file>
+    </group>
+    <group>
       <name>User</name>
+      <file>
+        <name>$PROJ_DIR$\..\Src\can_settings.h</name>
+      </file>
       <file>
         <name>$PROJ_DIR$\..\Src\freertos.c</name>
       </file>
